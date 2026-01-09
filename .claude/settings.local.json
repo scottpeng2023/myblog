@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm add:*)",
+      "Bash(pnpm install:*)",
+      "Bash(CI=true pnpm install:*)",
+      "Bash(pnpm build:*)",
+      "Bash(ls:*)",
+      "Bash(tree:*)"
+    ]
+  }
+}
